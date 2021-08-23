@@ -1,2 +1,2 @@
-# crush-the-zombie
-thanks for playing
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
